@@ -1,11 +1,7 @@
 /*
-Implement heap sort.
-1. Make an array of 15 numbers. Make sure the array is not sorted AND the numbers do not make a heap.
-    You may hard code this array in your main program.
-2. Convert the array into a heap, using Floyd's algorithm.  
-    Print the new array  Capture screen shot of array before making a heap and after making a heap.
-3. Sort the array into descending order using heap sort method. Print the array. - Capture screen shot of array before and after sorting.
-Submit code and screen shots.
+    Program implement heap sort.
+    The array into a heap, using Floyd's algorithm.  
+    Array is sorted into descending order using heap sort method. 
 */
 
 public class Heap_sort {
