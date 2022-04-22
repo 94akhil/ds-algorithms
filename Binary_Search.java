@@ -1,16 +1,9 @@
-package Assignment.Assignment_1;
-
-/*
-We covered binary search algorithm for an array.  
-Write program similar to binary search, but now divide the list into 3 parts each time.  
-So this would be tertiary search algorithm. 
-Your program must be recursive,  
-Submit the code and screen shot of executions.
-run it 2 times .. once try to search a number in the list.
-Second time search a number not in the list.
+/* 
+Tertiary search algorithm. 
+A program similar to binary search alogrithm, but dividing the list into 3 parts.  
 */
 
-public class AssignmentTwo {    
+public class Tertiarysearch {    
         
     static int tertiarySearch(int[] arrVal, int low, int high, int val){
         int midVal= (high-low)/3;
