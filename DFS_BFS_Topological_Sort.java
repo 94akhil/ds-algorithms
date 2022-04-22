@@ -1,12 +1,9 @@
 import java.util.Arrays;
 
 /*
-    a.  Write a program to do DFS topological sort . your program must be able to catch the loop.
-        Run the program on the attached graphs.
-    b.  Write a program to do BFS topological sort . your program must be able to catch the loop.
-        Run the program on the attached graphs.
-        submit screen shots of execution results.
-        submit the code
+   Program performs DFS and BFS topological sort.
+   There are two sets of example used to test the code. The first example contains a loop and the second one doesn't.
+   Set the nodeCount variable (total number of nodes on the graph) and DFSStartNode ( node which doesn't have a predecessor) for each example.
 */
 
 public class topological {
