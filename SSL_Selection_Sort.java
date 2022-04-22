@@ -1,17 +1,9 @@
-package Assignment.Assignment_1;
-
 /*
-Make a single linked list of integers.  There should be at least 15 nodes,. The list should not be sorted.
-Traverse the list.
-Now sort the list using selection sort.  /do not use any other sorting algorithm. The list should be sorted such that your program unlinks the nodes and relinks them so that they are sorted. (DO NOT SWAP THE VALUES IN THE NODES).
-use selection sort.
-Traverse the list again.
-Submit the complete code.
-A readme file with instructions to compile.
-submit each  Screen shot of your program execution.
+    Program creates a single linked list of integers.
+    Program includes Traversing the list and selection sort.
 */
 
-public class AssignmentOne {
+public class SingleLinkedList {
 
     static class Node{    
         int val;    
