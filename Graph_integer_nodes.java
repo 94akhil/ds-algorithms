@@ -1,14 +1,10 @@
 import java.util.Arrays;
 
-// Write a program:
-// 1. Create a graph of at least 10 nodes and 20 edges. You may use any representation we have discussed
-//        Print the nodes and the edges.
-// 2. Do a DFS traversal of the graph.  Print the nodes in the order DFSVisited.
-// 3. Do a BFS traversal.  Use the same node to start as in 2 above.
-// Submit program files.
-// submit screen shot of execution
 
-// NOTE: Code is written for an undirected graph
+/*
+    This is a code similar to DFS_BFS_Graph.java, but the nodes are assumed to be integer
+    NOTE: Code is written for an undirected graph
+*/
 
 public class graph {
 
